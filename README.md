@@ -25,7 +25,6 @@ In this project you'll choose an api to consume. You will build an application f
 ### Task 1: Project Set Up
 
 - [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal.
 - [ ] CD into the project base directory `cd React-Redux-App`.
 - [ ] Run `npx create-react-app app --use-npm` to make a CRA app.
@@ -35,6 +34,14 @@ In this project you'll choose an api to consume. You will build an application f
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
+
+----------------------------------------COMPLETE
+
+
+
+
+
+
 ### Task 2: Minimum Viable Product
 
 - [ ] Build a React Redux app
@@ -42,6 +49,25 @@ In this project you'll choose an api to consume. You will build an application f
 - [ ] Add the data from the API to the Redux store
 - [ ] Display the data from the store in a component
 - [ ] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Task 3: Stretch Problems
 
