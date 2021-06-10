@@ -44,11 +44,13 @@ In this project you'll choose an api to consume. You will build an application f
 
 ### Task 2: Minimum Viable Product
 
-- [ ] Build a React Redux app
-- [ ] Fetch data inside an async action creator from an API of your choosing
-- [ ] Add the data from the API to the Redux store
-- [ ] Display the data from the store in a component
-- [ ] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
+- [COMPLETED] Build a React Redux app
+
+- [COMPLETED] Fetch data inside an async action creator from an API of your choosing
+
+- [COMPLETED] Add the data from the API to the Redux store
+- [COMPLETED] Display the data from the store in a component
+- [COMPLETED] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
 
 
 
