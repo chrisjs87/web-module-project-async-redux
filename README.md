@@ -1,6 +1,8 @@
 # Module Project: Async Redux - React Redux App
 
-This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored asyncronous action creators in Redux. In your project you will demonstrate proficiency of these subjects and principles by building an app from scratch that consumes and API of your choosing, and displays data fetched from that API.
+This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored asyncronous action creators in Redux. In your project you will demonstrate proficiency of these subjects and principles by building an app from scratch that consumes an API of your choosing, and displays data fetched from that API.
+
+Initial Commit
 
 ## Introduction
 
@@ -23,7 +25,6 @@ In this project you'll choose an api to consume. You will build an application f
 ### Task 1: Project Set Up
 
 - [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal.
 - [ ] CD into the project base directory `cd React-Redux-App`.
 - [ ] Run `npx create-react-app app --use-npm` to make a CRA app.
@@ -33,13 +34,42 @@ In this project you'll choose an api to consume. You will build an application f
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
 
+
+----------------------------------------COMPLETE
+
+
+
+
+
+
 ### Task 2: Minimum Viable Product
 
-- [ ] Build a React Redux app
-- [ ] Fetch data inside an async action creator from an API of your choosing
-- [ ] Add the data from the API to the Redux store
-- [ ] Display the data from the store in a component
-- [ ] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
+- [COMPLETED] Build a React Redux app
+
+- [COMPLETED] Fetch data inside an async action creator from an API of your choosing
+
+- [COMPLETED] Add the data from the API to the Redux store
+- [COMPLETED] Display the data from the store in a component
+- [COMPLETED] _Some_ styling must be applied. It can be basic, but the app must not only use browser default stylings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Task 3: Stretch Problems
 
